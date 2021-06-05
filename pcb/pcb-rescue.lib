@@ -1,29 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# MX_Alps_Hybrid_MX-NoLED
+# HRO-TYPE-C-31-M-12-keebio
 #
-DEF MX_Alps_Hybrid_MX-NoLED MX 0 40 Y Y 1 F N
-F0 "MX" -25 150 60 H V C CNN
-F1 "MX_Alps_Hybrid_MX-NoLED" -25 50 20 H V C CNN
-F2 "" -625 -25 60 H I C CNN
-F3 "" -625 -25 60 H I C CNN
-DRAW
-T 0 125 0 30 0 0 0 COL Normal 0 C C
-T 900 0 -75 30 0 0 0 ROW Normal 0 R C
-S -100 100 50 -50 0 0 0 N
-P 2 0 0 5 -50 -50 -50 50 N
-P 3 0 0 5 50 50 0 50 -50 75 N
-X COL 1 150 50 100 L 0 0 1 1 P
-X ROW 2 -50 -150 100 U 0 0 1 1 P
-ENDDRAW
-ENDDEF
-#
-# keebio_HRO-TYPE-C-31-M-12
-#
-DEF keebio_HRO-TYPE-C-31-M-12 USB 0 40 Y Y 1 F N
+DEF HRO-TYPE-C-31-M-12-keebio USB 0 40 Y Y 1 F N
 F0 "USB" -200 650 60 H V C CNN
-F1 "keebio_HRO-TYPE-C-31-M-12" -400 -50 60 V V C CNN
+F1 "HRO-TYPE-C-31-M-12-keebio" -400 -50 60 V V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
@@ -45,11 +27,29 @@ X SBU1 9 100 -250 100 L 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# random-keyboard-parts_PRTR5V0U2X
+# MX-NoLED-MX_Alps_Hybrid
 #
-DEF random-keyboard-parts_PRTR5V0U2X U 0 40 Y Y 1 F N
+DEF MX-NoLED-MX_Alps_Hybrid MX 0 40 Y Y 1 F N
+F0 "MX" -25 150 60 H V C CNN
+F1 "MX-NoLED-MX_Alps_Hybrid" -25 50 20 H V C CNN
+F2 "" -625 -25 60 H I C CNN
+F3 "" -625 -25 60 H I C CNN
+DRAW
+T 0 125 0 30 0 0 0 COL Normal 0 C C
+T 900 0 -75 30 0 0 0 ROW Normal 0 R C
+S -100 100 50 -50 0 0 0 N
+P 2 0 0 5 -50 -50 -50 50 N
+P 3 0 0 5 50 50 0 50 -50 75 N
+X COL 1 150 50 100 L 0 0 1 1 P
+X ROW 2 -50 -150 100 U 0 0 1 1 P
+ENDDRAW
+ENDDEF
+#
+# PRTR5V0U2X-random-keyboard-parts
+#
+DEF PRTR5V0U2X-random-keyboard-parts U 0 40 Y Y 1 F N
 F0 "U" 0 150 60 H V C CNN
-F1 "random-keyboard-parts_PRTR5V0U2X" 0 -150 60 H V C CNN
+F1 "PRTR5V0U2X-random-keyboard-parts" 0 -150 60 H V C CNN
 F2 "" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 DRAW
