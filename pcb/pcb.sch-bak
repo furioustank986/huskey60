@@ -340,7 +340,7 @@ F 3 "" H 9920 2390 50  0001 C CNN
 $EndComp
 Connection ~ 9920 2390
 $Comp
-L keebio:HRO-TYPE-C-31-M-12 USB1
+L pcb-rescue:HRO-TYPE-C-31-M-12-keebio-pcb-rescue USB1
 U 1 1 60B21C59
 P 2230 6040
 F 0 "USB1" H 2063 6837 60  0000 C CNN
@@ -351,7 +351,7 @@ F 3 "" H 2230 6040 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L random-keyboard-parts:PRTR5V0U2X U1
+L pcb-rescue:PRTR5V0U2X-random-keyboard-parts-pcb-rescue U1
 U 1 1 60B226B5
 P 3710 6270
 F 0 "U1" H 3710 6567 60  0000 C CNN
@@ -568,7 +568,7 @@ D+
 Text GLabel 4970 5890 2    50   Input ~ 0
 D-
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX1
 U 1 1 60B503F2
 P 790 870
 F 0 "MX1" H 823 1093 60  0000 C CNN
@@ -592,7 +592,7 @@ F 3 "~" V 690 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX6
 U 1 1 60B59A7A
 P 1090 870
 F 0 "MX6" H 1123 1093 60  0000 C CNN
@@ -616,7 +616,7 @@ F 3 "~" V 990 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX10
 U 1 1 60B5C36E
 P 1390 870
 F 0 "MX10" H 1423 1093 60  0000 C CNN
@@ -640,7 +640,7 @@ F 3 "~" V 1290 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX15
 U 1 1 60B5EF8C
 P 1690 870
 F 0 "MX15" H 1723 1093 60  0000 C CNN
@@ -664,7 +664,7 @@ F 3 "~" V 1590 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX19
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX19
 U 1 1 60B61B17
 P 1990 870
 F 0 "MX19" H 2023 1093 60  0000 C CNN
@@ -688,7 +688,7 @@ F 3 "~" V 1890 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX23
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX23
 U 1 1 60B6486A
 P 2290 870
 F 0 "MX23" H 2323 1093 60  0000 C CNN
@@ -712,7 +712,7 @@ F 3 "~" V 2190 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX27
 U 1 1 60B67A58
 P 2590 870
 F 0 "MX27" H 2623 1093 60  0000 C CNN
@@ -736,7 +736,7 @@ F 3 "~" V 2490 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX32
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX32
 U 1 1 60B6A9C0
 P 2890 870
 F 0 "MX32" H 2923 1093 60  0000 C CNN
@@ -760,7 +760,7 @@ F 3 "~" V 2790 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX36
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX36
 U 1 1 60B6DA5C
 P 3190 870
 F 0 "MX36" H 3223 1093 60  0000 C CNN
@@ -784,7 +784,7 @@ F 3 "~" V 3090 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX40
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX40
 U 1 1 60B70C9E
 P 3490 870
 F 0 "MX40" H 3523 1093 60  0000 C CNN
@@ -808,7 +808,7 @@ F 3 "~" V 3390 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX44
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX44
 U 1 1 60B73F84
 P 3790 870
 F 0 "MX44" H 3823 1093 60  0000 C CNN
@@ -832,7 +832,7 @@ F 3 "~" V 3690 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX49
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX49
 U 1 1 60B7A762
 P 4090 870
 F 0 "MX49" H 4123 1093 60  0000 C CNN
@@ -856,7 +856,7 @@ F 3 "~" V 3990 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX54
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX54
 U 1 1 60B7DC89
 P 4390 870
 F 0 "MX54" H 4423 1093 60  0000 C CNN
@@ -880,7 +880,7 @@ F 3 "~" V 4290 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX57
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX57
 U 1 1 60B81433
 P 4690 870
 F 0 "MX57" H 4723 1093 60  0000 C CNN
@@ -904,7 +904,7 @@ F 3 "~" V 4590 1120 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX2
 U 1 1 60B999F5
 P 790 1470
 F 0 "MX2" H 823 1693 60  0000 C CNN
@@ -917,7 +917,7 @@ $EndComp
 Wire Wire Line
 	740  1620 690  1620
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX7
 U 1 1 60B99A02
 P 1090 1470
 F 0 "MX7" H 1123 1693 60  0000 C CNN
@@ -941,7 +941,7 @@ F 3 "~" V 990 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX11
 U 1 1 60B99A0F
 P 1390 1470
 F 0 "MX11" H 1423 1693 60  0000 C CNN
@@ -965,7 +965,7 @@ F 3 "~" V 1290 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX16
 U 1 1 60B99A1C
 P 1690 1470
 F 0 "MX16" H 1723 1693 60  0000 C CNN
@@ -989,7 +989,7 @@ F 3 "~" V 1590 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX20
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX20
 U 1 1 60B99A29
 P 1990 1470
 F 0 "MX20" H 2023 1693 60  0000 C CNN
@@ -1013,7 +1013,7 @@ F 3 "~" V 1890 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX24
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX24
 U 1 1 60B99A36
 P 2290 1470
 F 0 "MX24" H 2323 1693 60  0000 C CNN
@@ -1037,7 +1037,7 @@ F 3 "~" V 2190 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX28
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX28
 U 1 1 60B99A43
 P 2590 1470
 F 0 "MX28" H 2623 1693 60  0000 C CNN
@@ -1061,7 +1061,7 @@ F 3 "~" V 2490 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX33
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX33
 U 1 1 60B99A50
 P 2890 1470
 F 0 "MX33" H 2923 1693 60  0000 C CNN
@@ -1085,7 +1085,7 @@ F 3 "~" V 2790 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX37
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX37
 U 1 1 60B99A5D
 P 3190 1470
 F 0 "MX37" H 3223 1693 60  0000 C CNN
@@ -1109,7 +1109,7 @@ F 3 "~" V 3090 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX41
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX41
 U 1 1 60B99A6A
 P 3490 1470
 F 0 "MX41" H 3523 1693 60  0000 C CNN
@@ -1133,7 +1133,7 @@ F 3 "~" V 3390 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX45
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX45
 U 1 1 60B99A77
 P 3790 1470
 F 0 "MX45" H 3823 1693 60  0000 C CNN
@@ -1157,7 +1157,7 @@ F 3 "~" V 3690 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX50
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX50
 U 1 1 60B99A84
 P 4090 1470
 F 0 "MX50" H 4123 1693 60  0000 C CNN
@@ -1181,7 +1181,7 @@ F 3 "~" V 3990 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX55
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX55
 U 1 1 60B99A91
 P 4390 1470
 F 0 "MX55" H 4423 1693 60  0000 C CNN
@@ -1205,7 +1205,7 @@ F 3 "~" V 4290 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX58
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX58
 U 1 1 60B99A9E
 P 4690 1470
 F 0 "MX58" H 4723 1693 60  0000 C CNN
@@ -1229,7 +1229,7 @@ F 3 "~" V 4590 1720 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX3
 U 1 1 60BAA3AF
 P 790 2070
 F 0 "MX3" H 823 2293 60  0000 C CNN
@@ -1253,7 +1253,7 @@ F 3 "~" V 690 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX8
 U 1 1 60BAA3BC
 P 1090 2070
 F 0 "MX8" H 1123 2293 60  0000 C CNN
@@ -1277,7 +1277,7 @@ F 3 "~" V 990 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX12
 U 1 1 60BAA3C9
 P 1390 2070
 F 0 "MX12" H 1423 2293 60  0000 C CNN
@@ -1301,7 +1301,7 @@ F 3 "~" V 1290 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX17
 U 1 1 60BAA3D6
 P 1690 2070
 F 0 "MX17" H 1723 2293 60  0000 C CNN
@@ -1325,7 +1325,7 @@ F 3 "~" V 1590 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX21
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX21
 U 1 1 60BAA3E3
 P 1990 2070
 F 0 "MX21" H 2023 2293 60  0000 C CNN
@@ -1349,7 +1349,7 @@ F 3 "~" V 1890 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX25
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX25
 U 1 1 60BAA3F0
 P 2290 2070
 F 0 "MX25" H 2323 2293 60  0000 C CNN
@@ -1373,7 +1373,7 @@ F 3 "~" V 2190 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX29
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX29
 U 1 1 60BAA3FD
 P 2590 2070
 F 0 "MX29" H 2623 2293 60  0000 C CNN
@@ -1397,7 +1397,7 @@ F 3 "~" V 2490 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX34
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX34
 U 1 1 60BAA40A
 P 2890 2070
 F 0 "MX34" H 2923 2293 60  0000 C CNN
@@ -1421,7 +1421,7 @@ F 3 "~" V 2790 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX38
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX38
 U 1 1 60BAA417
 P 3190 2070
 F 0 "MX38" H 3223 2293 60  0000 C CNN
@@ -1445,7 +1445,7 @@ F 3 "~" V 3090 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX42
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX42
 U 1 1 60BAA424
 P 3490 2070
 F 0 "MX42" H 3523 2293 60  0000 C CNN
@@ -1469,7 +1469,7 @@ F 3 "~" V 3390 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX46
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX46
 U 1 1 60BAA431
 P 3790 2070
 F 0 "MX46" H 3823 2293 60  0000 C CNN
@@ -1493,7 +1493,7 @@ F 3 "~" V 3690 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX51
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX51
 U 1 1 60BAA43E
 P 4090 2070
 F 0 "MX51" H 4123 2293 60  0000 C CNN
@@ -1517,7 +1517,7 @@ F 3 "~" V 3990 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX59
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX59
 U 1 1 60BAA44B
 P 4690 2070
 F 0 "MX59" H 4723 2293 60  0000 C CNN
@@ -1541,7 +1541,7 @@ F 3 "~" V 4590 2320 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX4
 U 1 1 60BBE0C3
 P 790 2670
 F 0 "MX4" H 823 2893 60  0000 C CNN
@@ -1565,7 +1565,7 @@ F 3 "~" V 690 2920 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX60
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX60
 U 1 1 60BBE152
 P 4690 2670
 F 0 "MX60" H 4723 2893 60  0000 C CNN
@@ -1589,7 +1589,7 @@ F 3 "~" V 4590 2920 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX5
 U 1 1 60BD5BDC
 P 790 3270
 F 0 "MX5" H 823 3493 60  0000 C CNN
@@ -1613,7 +1613,7 @@ F 3 "~" V 690 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX9
 U 1 1 60BD5BE9
 P 1090 3270
 F 0 "MX9" H 1123 3493 60  0000 C CNN
@@ -1637,7 +1637,7 @@ F 3 "~" V 990 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX14
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX14
 U 1 1 60BD5BF6
 P 1390 3270
 F 0 "MX14" H 1423 3493 60  0000 C CNN
@@ -1661,7 +1661,7 @@ F 3 "~" V 1290 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX31
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX31
 U 1 1 60BD5C03
 P 2590 3270
 F 0 "MX31" H 2623 3493 60  0000 C CNN
@@ -1685,7 +1685,7 @@ F 3 "~" V 2490 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX48
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX48
 U 1 1 60BD5C10
 P 3790 3270
 F 0 "MX48" H 3823 3493 60  0000 C CNN
@@ -1709,7 +1709,7 @@ F 3 "~" V 3690 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX53
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX53
 U 1 1 60BD5C1D
 P 4090 3270
 F 0 "MX53" H 4123 3493 60  0000 C CNN
@@ -1733,7 +1733,7 @@ F 3 "~" V 3990 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX56
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX56
 U 1 1 60BD5C2A
 P 4390 3270
 F 0 "MX56" H 4423 3493 60  0000 C CNN
@@ -1757,7 +1757,7 @@ F 3 "~" V 4290 3520 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX61
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX61
 U 1 1 60BD5C37
 P 4690 3270
 F 0 "MX61" H 4723 3493 60  0000 C CNN
@@ -1993,7 +1993,7 @@ $EndComp
 Wire Wire Line
 	4040 2820 3990 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX52
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX52
 U 1 1 60BBE145
 P 4090 2670
 F 0 "MX52" H 4123 2893 60  0000 C CNN
@@ -2017,7 +2017,7 @@ $EndComp
 Wire Wire Line
 	3740 2820 3690 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX47
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX47
 U 1 1 60BBE138
 P 3790 2670
 F 0 "MX47" H 3823 2893 60  0000 C CNN
@@ -2041,7 +2041,7 @@ $EndComp
 Wire Wire Line
 	3440 2820 3390 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX43
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX43
 U 1 1 60BBE12B
 P 3490 2670
 F 0 "MX43" H 3523 2893 60  0000 C CNN
@@ -2065,7 +2065,7 @@ $EndComp
 Wire Wire Line
 	3140 2820 3090 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX39
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX39
 U 1 1 60BBE11E
 P 3190 2670
 F 0 "MX39" H 3223 2893 60  0000 C CNN
@@ -2089,7 +2089,7 @@ $EndComp
 Wire Wire Line
 	2840 2820 2790 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX35
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX35
 U 1 1 60BBE111
 P 2890 2670
 F 0 "MX35" H 2923 2893 60  0000 C CNN
@@ -2113,7 +2113,7 @@ $EndComp
 Wire Wire Line
 	2540 2820 2490 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX30
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX30
 U 1 1 60BBE104
 P 2590 2670
 F 0 "MX30" H 2623 2893 60  0000 C CNN
@@ -2137,7 +2137,7 @@ $EndComp
 Wire Wire Line
 	2240 2820 2190 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX26
 U 1 1 60BBE0F7
 P 2290 2670
 F 0 "MX26" H 2323 2893 60  0000 C CNN
@@ -2161,7 +2161,7 @@ $EndComp
 Wire Wire Line
 	1940 2820 1890 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX22
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX22
 U 1 1 60BBE0EA
 P 1990 2670
 F 0 "MX22" H 2023 2893 60  0000 C CNN
@@ -2185,7 +2185,7 @@ $EndComp
 Wire Wire Line
 	1640 2820 1590 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX18
 U 1 1 60BBE0DD
 P 1690 2670
 F 0 "MX18" H 1723 2893 60  0000 C CNN
@@ -2209,7 +2209,7 @@ $EndComp
 Wire Wire Line
 	1340 2820 1290 2820
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L pcb-rescue:MX-NoLED-MX_Alps_Hybrid-pcb-rescue MX13
 U 1 1 60BBE0D0
 P 1390 2670
 F 0 "MX13" H 1423 2893 60  0000 C CNN
